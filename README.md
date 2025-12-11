@@ -57,11 +57,21 @@ python weeklyplanner.py
 - **Move window:** Drag anywhere in the window background.
 - **Close/minimize:** Use the red/yellow buttons in the top-left corner.
 
+- `Note` If you exit out of the window, all tasks and calendar events will be erased, keep the app minimized on the dock to maintain task persistence.
+
+---
+
+## Unit Tests
+
+To run unit tests, set `run_tests = False` to `True` in line `1564` of `weeklyplanner.py`
+Unit test results will be displayed in the terminal.  
+
 ---
 
 ## Tips
 
 - **.ics import:** To get an `.ics` file from Google Calendar or Outlook, export your calendar via their settings. Only events for the week you're viewing will appear after import.
+- An example `.ics` file is included in this repository under the name `example.ics`
 - **Set your own icon:** Place your own `appicon.png` in the root folder for a custom dock/taskbar icon.
 - **Font issues:** On some systems, you can edit the font in code from `"Arial"` to better match your desktop environment.
 
