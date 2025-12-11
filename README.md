@@ -71,7 +71,7 @@ Unit test results will be displayed in the terminal.
 ## Tips
 
 - **.ics import:** To get an `.ics` file from Google Calendar or Outlook, export your calendar via their settings. Only events for the week you're viewing will appear after import.
-- An example `.ics` file is included in this repository under the name `example.ics`
+- An example `.ics` file is included in this repository under the name `calendar.ics`
 - **Set your own icon:** Place your own `appicon.png` in the root folder for a custom dock/taskbar icon.
 - **Font issues:** On some systems, you can edit the font in code from `"Arial"` to better match your desktop environment.
 
