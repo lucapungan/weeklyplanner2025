@@ -5,6 +5,12 @@ Drag tasks and events onto a calendar, organize your week, zoom in and out, chan
 
 ---
 
+<p align="center">
+  <img width="514" height="361" alt="Screenshot 2" src="https://github.com/user-attachments/assets/44a07f4a-67c1-49d2-9814-4e0e0bc9ea90" />
+  <img width="400" height="361" alt="Screenshot 1" src="https://github.com/user-attachments/assets/9e5fdb46-2701-44f1-bd1b-391514995399" />
+ 
+</p>
+
 ## Features
 
 - **Weekly calendar (Monday–Sunday)** grid for events
