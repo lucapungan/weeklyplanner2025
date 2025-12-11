@@ -18,16 +18,16 @@ from PySide6.QtWidgets import (
 
 
 START_HOUR = 6
-END_HOUR = 24  # <<== Expanded to end at midnight
+END_HOUR = 24  
 SNAP_MINUTES = 15
-COLUMN_WIDTH = 160       # Will be dynamic per resize
+COLUMN_WIDTH = 160      
 HEADER_HEIGHT = 26
 PADDING = 4
 HANDLE_HEIGHT = 8
 TIME_LABEL_WIDTH = 44
 DAY_NAMES = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 DEFAULT_GRID_MIN_HEIGHT = 500
-SPACE_BELOW_CAL = 16   # px - space below last hour before todo lists/splitter
+SPACE_BELOW_CAL = 16  
 
 LIGHT_MODE = {
     "window_bg": "#f6f7fb",
